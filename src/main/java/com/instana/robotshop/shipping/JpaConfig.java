@@ -7,7 +7,7 @@ import org.springframework.boot.jdbc.DataSourceBuilder;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
 
-@Configuration
+@Configuration changes
 public class JpaConfig {
     private static final Logger logger = LoggerFactory.getLogger(JpaConfig.class);
 
