@@ -40,3 +40,13 @@ $ mv target/shipping-1.0.jar shipping.jar
 # systemctl enable shipping
 ```
 
+<<<<<<< Updated upstream
+New resource add 
+=======
+5. Copy the service file and start the service git practice
+6.the second change done
+
+
+files added to demo the git stash
+new git stach
+>>>>>>> Stashed changes
